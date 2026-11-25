@@ -3,4 +3,4 @@
 	url = https://github.com/CMU-SAFARI/ramulator2.git
 [submodule "external/gem5"]
 	path = external/gem5
-	url = https://github.com/gem5/gem5.git
+	url = https://github.com/SAL-Research/gem5-BeSA.git
